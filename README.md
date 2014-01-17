@@ -1,13 +1,6 @@
-# Iterační výpočty
+IZP: Iterační výpočty
+====================================
+Projekt do předmětu Základy programování (1. semestr FIT VUT) ve stavu, v jakém byl odevzdán k hodnocení.
 
-Projekty jsou zde v takovém stavu, ve kterém jsem je odevzdával k hodnocení.
-
-## Hodnocení
-
+### Hodnocení
 10/10
-
-### Chyby na obhajobě
-
- * -0.50 Chybný výpočet mocniny: nepřesnost
- * +0.25 Opraveno
-
